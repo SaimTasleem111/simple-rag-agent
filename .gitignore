@@ -1,0 +1,16 @@
+# environment
+.env
+myrag/
+
+# IDE
+.idea/
+
+# cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# optional dataset file
+*.pdf
